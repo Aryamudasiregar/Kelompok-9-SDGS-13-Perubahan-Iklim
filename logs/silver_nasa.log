@@ -1,0 +1,6 @@
+[2026-05-31 18:55:24] [INFO] Bucket exists: silver
+Setting default log level to "WARN".
+To adjust logging level use sc.setLogLevel(newLevel). For SparkR, use setLogLevel(newLevel).
+26/05/31 18:55:26 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+[2026-05-31 18:56:02] [INFO] Silver NASA GISTEMP written to /home/arya/School/ABD/output/silver/nasa_gistemp and uploaded (4 files).
+[2026-05-31 18:56:02] [INFO] Silver NASA GISTEMP written to /home/arya/School/ABD/output/silver/nasa_gistemp and uploaded (4 files).

@@ -1,0 +1,7 @@
+[2026-05-31 20:06:21] [INFO] Bucket exists: silver
+Setting default log level to "WARN".
+To adjust logging level use sc.setLogLevel(newLevel). For SparkR, use setLogLevel(newLevel).
+26/05/31 20:06:27 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+26/05/31 20:06:38 WARN TaskSetManager: Stage 0 contains a task of very large size (27085 KiB). The maximum recommended task size is 1000 KiB.
+[2026-05-31 20:07:10] [INFO] Silver NOAA daily written to /home/arya/School/ABD/output/silver/noaa_daily and uploaded (6 files).
+[2026-05-31 20:07:10] [INFO] Silver NOAA daily written to /home/arya/School/ABD/output/silver/noaa_daily and uploaded (6 files).

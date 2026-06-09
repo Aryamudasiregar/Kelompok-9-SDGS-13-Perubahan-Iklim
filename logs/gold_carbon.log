@@ -1,0 +1,5 @@
+[2026-05-31 20:30:41] [INFO] Bucket exists: gold
+Setting default log level to "WARN".
+To adjust logging level use sc.setLogLevel(newLevel). For SparkR, use setLogLevel(newLevel).
+26/05/31 20:30:43 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+[2026-05-31 20:31:20] [INFO] Gold GCB annual written to /home/arya/School/ABD/output/gold/gcb_annual and uploaded (4 files).

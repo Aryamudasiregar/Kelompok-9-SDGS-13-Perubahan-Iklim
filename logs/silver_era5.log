@@ -1,0 +1,8 @@
+[2026-05-31 19:24:08] [INFO] Bucket exists: silver
+Picked up JAVA_TOOL_OPTIONS: --add-opens=java.base/javax.security.auth=ALL-UNNAMED
+Picked up JAVA_TOOL_OPTIONS: --add-opens=java.base/javax.security.auth=ALL-UNNAMED
+Setting default log level to "WARN".
+To adjust logging level use sc.setLogLevel(newLevel). For SparkR, use setLogLevel(newLevel).
+26/05/31 19:24:10 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+[2026-05-31 19:24:46] [INFO] Silver ERA5 written to /home/arya/School/ABD/output/silver/era5 and uploaded (4 files).
+[2026-05-31 19:24:46] [INFO] Silver ERA5 written to /home/arya/School/ABD/output/silver/era5 and uploaded (4 files).

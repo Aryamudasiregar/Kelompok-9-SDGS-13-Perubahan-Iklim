@@ -1,0 +1,16 @@
+total 0
+drwxr-xr-x. 1 arya arya  42 May 10 21:22 .
+drwxr-xr-x. 1 arya arya   6 May 10 21:22 ..
+drwxr-xr-x. 1 arya arya  88 May 10 21:23 copernicus
+drwxr-xr-x. 1 arya arya  74 May 10 21:22 gcb
+drwxr-xr-x. 1 arya arya  30 May 10 21:22 nasa
+drwxr-xr-x. 1 arya arya 106 May 31 13:25 noaa
+find: warning: you have specified the global option -maxdepth after the argument -type, but global options are not positional, i.e., -maxdepth affects tests specified before it as well as those specified after it.  Please specify global options before other arguments.
+data/raw/copernicus/era5_asean_2023_2024/data_stream-moda_stepType-avgad.nc
+data/raw/copernicus/era5_asean_2023_2024/data_stream-moda_stepType-avgua.nc
+data/raw/copernicus/era5_asean_2023_2024.zip
+data/raw/gcb/Global_Carbon_Budget_2024_v1.0-3.xlsx
+data/raw/nasa/GLB.Ts+dSST.csv
+data/raw/noaa/ghcnd-inventory.txt
+data/raw/noaa/ghcnd-stations.txt
+data/raw/noaa/ghcnd_all.tar.gz

@@ -1,0 +1,5 @@
+[2026-05-31 19:00:57] [INFO] Bucket exists: silver
+Setting default log level to "WARN".
+To adjust logging level use sc.setLogLevel(newLevel). For SparkR, use setLogLevel(newLevel).
+26/05/31 19:00:59 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+[2026-05-31 19:01:35] [INFO] Silver GCB written to /home/arya/School/ABD/output/silver/gcb and uploaded (4 files).

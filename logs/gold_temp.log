@@ -1,0 +1,5 @@
+[2026-05-31 20:29:21] [INFO] Bucket exists: gold
+Setting default log level to "WARN".
+To adjust logging level use sc.setLogLevel(newLevel). For SparkR, use setLogLevel(newLevel).
+26/05/31 20:29:23 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+[2026-05-31 20:30:01] [INFO] Gold temp trend written to /home/arya/School/ABD/output/gold/temp_trend and uploaded (4 files).
