@@ -1,0 +1,45 @@
+{
+  "latency_seconds": {
+    "medallion_query": 0.00679473499985761,
+    "baseline_query": 0.0022189179999259068
+  },
+  "notes": {
+    "latency": "Medallion query latency can be higher than the baseline for simple analytics queries. This is expected: the Medallion design adds overhead for governance, curated layers, and reprocessability rather than optimizing for raw single-query speed."
+  },
+  "storage_bytes": {
+    "bronze": 33040962033,
+    "silver": 2918731,
+    "gold": 24311
+  },
+  "storage_human": {
+    "bronze": "30.8GB",
+    "silver": "2.8MB",
+    "gold": "23.7KB"
+  },
+  "compression_ratio": {
+    "bronze_to_silver": 11320.317642496002,
+    "silver_to_gold": 120.05803957056476
+  },
+  "data_quality": {
+    "nasa": {
+      "raw_score": 0.9948979591836735,
+      "silver_score": 0.9948979591836735
+    },
+    "gcb": {
+      "raw_score": 0.0,
+      "silver_score": 1.0
+    },
+    "era5": {
+      "raw_score": 1.0,
+      "silver_score": 1.0
+    },
+    "noaa": {
+      "raw_score": 1.0,
+      "silver_score": 1.0
+    },
+    "overall": {
+      "raw_score": 0.7487244897959184,
+      "silver_score": 0.9987244897959184
+    }
+  }
+}
