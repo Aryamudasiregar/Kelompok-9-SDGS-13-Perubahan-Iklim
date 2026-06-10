@@ -1,0 +1,24 @@
+data/raw/
+
+output/bronze/
+output/tmp/
+
+.venv/
+.obsidian/
+__pycache__/
+*.pyc
+*.pyo
+.python-version
+
+# uv
+.uv/
+
+docs/
+
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.swp
